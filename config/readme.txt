@@ -1,1 +1,0 @@
-All MS config properties.

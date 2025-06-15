@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod git APIs RF MQ"
+  message: "Welcome to EazyBank accounts related prod git DC deployed MQ"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}8b6cc17b02b23b5291886c49d6c458772569d96162c0df2f16a393c6133f1da3c143094f962675aa827f53a65cfc3b64"
